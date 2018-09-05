@@ -152,6 +152,17 @@ Disadvantages of the project
 -As mobile tablets use wireless network, they can disconnect with
 network if wifi fails.
 
+                                                                               Conclusion
+         This internship programme is very useful for us because we can get more experience and knowledge about the real working environment.With join this internship we also can make new relations with other organizations or company.
+
+     The most important thing is we can improve our communication skills, also we can have more networking.In class we just know the theory, but in this internship we can practice all the theory in the real work.
+
+
+References:
+www.google.com
+https://getmdl.io
+https://learnpythonthehardway.org/python3
+https://materializecss.com
 
 
 
