@@ -141,6 +141,17 @@ Step4
 https://shweweb02.firebaseapp.com
 
 
+Advantages of the project
+The proposed system offers the following advantages:
+-The required applications can be easily downloaded.
+-Applications are becoming so functional and popular among people.
+
+
+Disadvantages of the project
+-The cost of computer hardware and software programs can be expensive.
+-As mobile tablets use wireless network, they can disconnect with
+network if wifi fails.
+
 
 
 
