@@ -127,7 +127,8 @@ Step1
 https://vim-adventures.com 
 
 
-
+Step2
+       We have to learn and practice python exercise run with Gitbash  , and then upload on Github. 
 
 
 
