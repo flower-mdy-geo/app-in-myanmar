@@ -153,9 +153,9 @@ Disadvantages of the project
 network if wifi fails.
 
                                                                                Conclusion
-         This internship program is very useful for us because we can get more experience and knowledge about the real working environment.With join this internship we also can make new relations with other organizations or company.
+         This internship program is very useful for us because we can get more experience and knowledge about the real working environment.With join this internship we can also make new relations with other organizations or company.
 
-     The most important thing is that we can improve our communication skills, also we can have more networking.In class we just know the theory, but in this internship we can practice all the theory in the real work.
+     The most important thing is that we can improve our communication skills,we can also have more networking.In class we just know the theory, but in this internship we can practice all the theory in the real work.
 
 
 References:
