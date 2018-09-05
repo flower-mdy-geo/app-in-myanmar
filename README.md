@@ -54,3 +54,23 @@
 
 
 
+
+                                                                                      Declaration
+
+We declare that this project is as the instructions of our Director U Ravi Chhabra. Sometimes, we search some data from google.
+
+                Project Details
+
+Project Title	Firebase(Apps in Myanmar)
+Project ID 	Geo Mandalay Internship
+
+
+
+
+Software Requirements
+-Gitbash
+-Sublimetext
+
+
+
+
