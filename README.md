@@ -73,4 +73,49 @@ Software Requirements
 
 
 
+                                                                         Introduction
+What is GitHub?
+              GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of  the distributed version control and source code management functionality of Git as well as adding its own features. Github is free to use for public and open source projects.
+Link here-
+https://github.com
+
+
+We have own profile on Github .The link for each members are :
+https://AyeNandar.github.io
+https://AyeThandarAung.github.io
+https://ZinMarNwe.github.io
+https://thinmarwin.github.io
+https://KyawZinAung12.github.io
+https://Nannlaelaeaung.github.io
+
+
+
+
+
+What is Gitbash?
+	Gitbash for windows is a package that is comprised of two parts: git :It is a version control system which tracks the file changes , commonly used for programming .bash: It is a unix shell command line interface commonly used in different linux machines.
+
+What is Git?
+Git is a version control system for tracking  changes in computer files and coordinating work on those files among multiple people .As a distributed revision control system , it is aimed at speed, data integrity, and support for distributed , non-linear workflows.
+
+
+git add –
+ 
+git commit –
+ 
+git push-
+ 
+
+
+
+What is Firebase?
+	Firebase allows you to build apps which need authentication , database, file storage, analytics and server side functionality without having to own and manage infrastructure and software required for server side support. Firebase is Back-end as a services owned by Google which provides server-less back-end to the app developers.
+Link here:
+https://firebase.com
+Or 
+https://firebase.google.com
+
+
+
+
 
