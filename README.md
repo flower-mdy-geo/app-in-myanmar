@@ -4,7 +4,7 @@
 
                                                                      Presented by
 
-                                                                   FlowerñMdy-Geo
+                                                                   Flower‚ÄìMdy-Geo
 
 
 
@@ -13,7 +13,7 @@
 
  
                                                                  A PROJECT REPORT ON
-                                                                     ìApps in Myanmarî
+                                                                     ‚ÄúApps in Myanmar‚Äù
                                                                            FOR
 
                                                  Geo Mandalar Investment & Technology Co ltd;
@@ -99,9 +99,9 @@ What is Git?
 Git is a version control system for tracking  changes in computer files and coordinating work on those files among multiple people .As a distributed revision control system , it is aimed at speed, data integrity, and support for distributed , non-linear workflows.
 
 
-git add ñ
+git add ‚Äì
  
-git commit ñ
+git commit ‚Äì
  
 git push-
  
@@ -137,7 +137,7 @@ https://geo-flower2.firebaseapp.com
 https://mockery1-a.firebaseapp.com
 
 Step4
-        Our projectís name is ìApp in Myanmarî. This is the collection of some famous applications in Myanmar. You can see it through the following link.
+        Our project‚Äôs name is ‚ÄúApp in Myanmar‚Äù. This is the collection of some famous applications in Myanmar. You can see it through the following link.
 https://shweweb02.firebaseapp.com
 
 
@@ -153,9 +153,9 @@ Disadvantages of the project
 network if wifi fails.
 
                                                                                Conclusion
-         This internship programme is very useful for us because we can get more experience and knowledge about the real working environment.With join this internship we also can make new relations with other organizations or company.
+         This internship program is very useful for us because we can get more experience and knowledge about the real working environment.With join this internship we also can make new relations with other organizations or company.
 
-     The most important thing is we can improve our communication skills, also we can have more networking.In class we just know the theory, but in this internship we can practice all the theory in the real work.
+     The most important thing is that we can improve our communication skills, also we can have more networking.In class we just know the theory, but in this internship we can practice all the theory in the real work.
 
 
 References:
