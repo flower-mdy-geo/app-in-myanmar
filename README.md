@@ -130,6 +130,13 @@ https://vim-adventures.com
 Step2
        We have to learn and practice python exercise run with Gitbash  , and then upload on Github. 
 
+Step 3
+  We have to practice some design to create our main project with firebase.
+Eg:
+https://geo-flower2.firebaseapp.com
+https://mockery1-a.firebaseapp.com
+
+
 
 
 
