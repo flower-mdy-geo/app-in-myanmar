@@ -37,7 +37,7 @@
                                                                 Acknowledgment
 	First of all, we would like to express our sincere thanks and appreciation to all persons, whose guidance aided directly toward the success of this project.
 
-	We would respectfully thank and appreciate Dr. U Kyaw Swar Soe, Rector of University of Computer Studies (Mandalay), and our pro-rector Dr San San Tint.
+	We would respectfully thank and appreciate  U Kyaw Swar Soe, Rector of University of Computer Studies (Mandalay), and our pro-rector Dr San San Tint.
 
 	     And then, we would like to describe our sincere thank Director U Ravi Chhabra, CEO of Geo Mandalar Investment & Technology Co Ltd, for his trust to give us such a heavy responsibility project.
 
