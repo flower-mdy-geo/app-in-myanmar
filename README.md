@@ -115,6 +115,20 @@ https://firebase.com
 Or 
 https://firebase.google.com
 
+                                               Objectives of the projects
+
+-We aim for users to find the application they want to use easily and quickly on our website.
+-Users can save their time because we collect many application in the same place.
+-By using our applications, we think users will be more convenient than before.
+
+
+Step1
+       First, the director lets us to play the Vim Adventure Game to practice the keys that used in gitbash. Link Here-
+https://vim-adventures.com 
+
+
+
+
 
 
 
