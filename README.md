@@ -46,3 +46,11 @@
        We would like to express our grateful thank to all teachers at University of Computer Studies (Mandalay) for their helpful advice.
 
 
+                                                                          Abstract
+
+     This is the processes of our internship program during the internship period for four months. We need to create account such as github, heroku and firebase. We also use gitbash software.
+
+         In the end, there is a briefing about the internship project that was assigned during the required internship to me.
+
+
+
