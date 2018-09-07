@@ -57,7 +57,7 @@
 
                                                                                       Declaration
 
-We declare that this project is as the instructions of our Director U Ravi Chhabra. Sometimes, we search some data from google.
+We declare that this project is the instructions of our Director U Ravi Chhabra. Sometimes, we search some data from google.
 
                 Project Details
 
